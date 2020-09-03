@@ -1,4 +1,4 @@
-def numeros_primo():
+def numeros_pares():
     n = int(input("numero: "))
 
     for n in range(1, n + 1):
